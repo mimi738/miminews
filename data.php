@@ -10,7 +10,7 @@ $bddserver = "localhost";
 $bddname = "news_mail";
 $bdduser = "news_mail";
 $table = "mails";
-$bddpassword = "; // possword de la base de donnees
+$bddpassword = ""; // possword de la base de donnees
 
 
 $mail_Smtpserver = "";
